@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.115254Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.930670Z",
+      "mimetype": "text/html",
+      "name": "chinadaily.html",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg6_\u56fe\u50cfURL/chinadaily.html",
+      "size": 9909,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.114691Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.805281Z",
+      "mimetype": null,
+      "name": "P10-prg6-\u56fe\u50cfURL.ipynb",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg6_\u56fe\u50cfURL/P10-prg6-\u56fe\u50cfURL.ipynb",
+      "size": 2455,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.114914Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.756318Z",
+      "mimetype": "text/x-python",
+      "name": "P10-prg6-\u56fe\u50cfURL.py",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg6_\u56fe\u50cfURL/P10-prg6-\u56fe\u50cfURL.py",
+      "size": 914,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.115018Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.115018Z",
+  "mimetype": null,
+  "name": "P10_prg6_\u56fe\u50cfURL",
+  "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg6_\u56fe\u50cfURL",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

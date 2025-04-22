@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.192675Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.727894Z",
+      "mimetype": null,
+      "name": "P7-prg-2-\u65e5\u53862022.ipynb",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_2_\u65e5\u53862022/P7-prg-2-\u65e5\u53862022.ipynb",
+      "size": 3743,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.192911Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.673964Z",
+      "mimetype": "text/x-python",
+      "name": "P7-prg-2-\u65e5\u53862022.py",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_2_\u65e5\u53862022/P7-prg-2-\u65e5\u53862022.py",
+      "size": 359,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.192815Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.192815Z",
+  "mimetype": null,
+  "name": "P7_prg_2_\u65e5\u53862022",
+  "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_2_\u65e5\u53862022",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

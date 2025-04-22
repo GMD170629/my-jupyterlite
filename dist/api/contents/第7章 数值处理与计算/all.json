@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.193293Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.193293Z",
+      "mimetype": null,
+      "name": "P7_prg_3_YearMonth\u5929\u6570NDays",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_3_YearMonth\u5929\u6570NDays",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.192815Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.192815Z",
+      "mimetype": null,
+      "name": "P7_prg_2_\u65e5\u53862022",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_2_\u65e5\u53862022",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.194379Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.194379Z",
+      "mimetype": null,
+      "name": "P7_prg_5_WeekDay",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_5_WeekDay",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.193839Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.193839Z",
+      "mimetype": null,
+      "name": "P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.194064Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.194064Z",
+  "mimetype": null,
+  "name": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97",
+  "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

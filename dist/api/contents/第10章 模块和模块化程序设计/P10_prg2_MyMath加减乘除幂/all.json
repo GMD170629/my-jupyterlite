@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.111623Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.718458Z",
+      "mimetype": null,
+      "name": "P10-prg2-MyMath\u52a0\u51cf\u4e58\u9664\u5e42.ipynb",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg2_MyMath\u52a0\u51cf\u4e58\u9664\u5e42/P10-prg2-MyMath\u52a0\u51cf\u4e58\u9664\u5e42.ipynb",
+      "size": 1681,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.112077Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.881873Z",
+      "mimetype": "text/x-python",
+      "name": "P10-prg2-MyMath\u52a0\u51cf\u4e58\u9664\u5e42.py",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg2_MyMath\u52a0\u51cf\u4e58\u9664\u5e42/P10-prg2-MyMath\u52a0\u51cf\u4e58\u9664\u5e42.py",
+      "size": 523,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.111794Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.111794Z",
+  "mimetype": null,
+  "name": "P10_prg2_MyMath\u52a0\u51cf\u4e58\u9664\u5e42",
+  "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg2_MyMath\u52a0\u51cf\u4e58\u9664\u5e42",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

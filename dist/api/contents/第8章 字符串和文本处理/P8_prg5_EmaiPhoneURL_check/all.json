@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.199632Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.441547Z",
+      "mimetype": null,
+      "name": "P8-prg5-EmaiPhoneURL_check.ipynb",
+      "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg5_EmaiPhoneURL_check/P8-prg5-EmaiPhoneURL_check.ipynb",
+      "size": 3065,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.199840Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.451314Z",
+      "mimetype": "text/x-python",
+      "name": "P8-prg5-EmaiPhoneURL_check.py",
+      "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg5_EmaiPhoneURL_check/P8-prg5-EmaiPhoneURL_check.py",
+      "size": 1186,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.199739Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.199739Z",
+  "mimetype": null,
+  "name": "P8_prg5_EmaiPhoneURL_check",
+  "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg5_EmaiPhoneURL_check",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

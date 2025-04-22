@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.142002Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.941777Z",
+      "mimetype": null,
+      "name": "P2-prg3-sphere\u8868\u9762\u79ef\u4f53\u79ef.ipynb",
+      "path": "\u7b2c2\u7ae0 Python\u8bed\u8a00\u57fa\u7840/P2_prg3_sphere\u8868\u9762\u79ef\u4f53\u79ef/P2-prg3-sphere\u8868\u9762\u79ef\u4f53\u79ef.ipynb",
+      "size": 1342,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.143157Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.949806Z",
+      "mimetype": "text/x-python",
+      "name": "P2-prg3-sphere\u8868\u9762\u79ef\u4f53\u79ef.py",
+      "path": "\u7b2c2\u7ae0 Python\u8bed\u8a00\u57fa\u7840/P2_prg3_sphere\u8868\u9762\u79ef\u4f53\u79ef/P2-prg3-sphere\u8868\u9762\u79ef\u4f53\u79ef.py",
+      "size": 247,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.142125Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.142125Z",
+  "mimetype": null,
+  "name": "P2_prg3_sphere\u8868\u9762\u79ef\u4f53\u79ef",
+  "path": "\u7b2c2\u7ae0 Python\u8bed\u8a00\u57fa\u7840/P2_prg3_sphere\u8868\u9762\u79ef\u4f53\u79ef",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.161878Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:42.947399Z",
+      "mimetype": "text/x-python",
+      "name": "P3-prg-5-(while)SumEven.py",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_5__while_SumEven/P3-prg-5-(while)SumEven.py",
+      "size": 82,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.161694Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:42.947399Z",
+      "mimetype": null,
+      "name": "P3-prg-5-(while)SumEven.ipynb",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_5__while_SumEven/P3-prg-5-(while)SumEven.ipynb",
+      "size": 1280,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.161791Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.161791Z",
+  "mimetype": null,
+  "name": "P3_prg_5__while_SumEven",
+  "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_5__while_SumEven",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

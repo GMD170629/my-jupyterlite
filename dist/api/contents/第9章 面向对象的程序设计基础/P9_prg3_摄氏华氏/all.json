@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.209478Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.790446Z",
+      "mimetype": "text/x-python",
+      "name": "P9-prg3-\u6444\u6c0f\u534e\u6c0f.py",
+      "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/P9_prg3_\u6444\u6c0f\u534e\u6c0f/P9-prg3-\u6444\u6c0f\u534e\u6c0f.py",
+      "size": 263,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.209228Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.816897Z",
+      "mimetype": null,
+      "name": "P9-prg3-\u6444\u6c0f\u534e\u6c0f.ipynb",
+      "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/P9_prg3_\u6444\u6c0f\u534e\u6c0f/P9-prg3-\u6444\u6c0f\u534e\u6c0f.ipynb",
+      "size": 1343,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.209344Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.209344Z",
+  "mimetype": null,
+  "name": "P9_prg3_\u6444\u6c0f\u534e\u6c0f",
+  "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/P9_prg3_\u6444\u6c0f\u534e\u6c0f",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

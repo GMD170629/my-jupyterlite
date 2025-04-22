@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.188510Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:44.183363Z",
+      "mimetype": "text/plain",
+      "name": "\u4e09\u56fd\u6f14\u4e49-\u6c49\u5b57\u7edf\u8ba1.txt",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_9_\u4e09\u56fd/\u4e09\u56fd\u6f14\u4e49-\u6c49\u5b57\u7edf\u8ba1.txt",
+      "size": 28226,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.187215Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:44.191150Z",
+      "mimetype": null,
+      "name": "P6-9-\u4e09\u56fd.ipynb",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_9_\u4e09\u56fd/P6-9-\u4e09\u56fd.ipynb",
+      "size": 1388,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.190166Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.080187Z",
+      "mimetype": "text/plain",
+      "name": "\u4e09\u56fd\u6f14\u4e49-\u7f51\u7edc\u7248.txt",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_9_\u4e09\u56fd/\u4e09\u56fd\u6f14\u4e49-\u7f51\u7edc\u7248.txt",
+      "size": 1796901,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.187506Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:44.060702Z",
+      "mimetype": "text/x-python",
+      "name": "P6-9-\u4e09\u56fd.py",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_9_\u4e09\u56fd/P6-9-\u4e09\u56fd.py",
+      "size": 320,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.188625Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.188625Z",
+  "mimetype": null,
+  "name": "P6_9_\u4e09\u56fd",
+  "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_9_\u4e09\u56fd",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

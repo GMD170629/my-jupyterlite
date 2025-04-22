@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.155190Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:43.058057Z",
+      "mimetype": "text/x-python",
+      "name": "P3-prg22-\u97e9\u4fe1\u70b9\u5175.py",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg22_\u97e9\u4fe1\u70b9\u5175/P3-prg22-\u97e9\u4fe1\u70b9\u5175.py",
+      "size": 181,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.155004Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:42.975593Z",
+      "mimetype": null,
+      "name": "P3-prg22-\u97e9\u4fe1\u70b9\u5175.ipynb",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg22_\u97e9\u4fe1\u70b9\u5175/P3-prg22-\u97e9\u4fe1\u70b9\u5175.ipynb",
+      "size": 1206,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.155103Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.155103Z",
+  "mimetype": null,
+  "name": "P3_prg22_\u97e9\u4fe1\u70b9\u5175",
+  "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg22_\u97e9\u4fe1\u70b9\u5175",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

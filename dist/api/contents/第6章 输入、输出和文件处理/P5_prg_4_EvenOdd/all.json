@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.174464Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:44.034641Z",
+      "mimetype": null,
+      "name": "P5-prg-4-EvenOdd.ipynb",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P5_prg_4_EvenOdd/P5-prg-4-EvenOdd.ipynb",
+      "size": 1239,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.174774Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:44.034640Z",
+      "mimetype": "text/x-python",
+      "name": "P5-prg-4-EvenOdd.py",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P5_prg_4_EvenOdd/P5-prg-4-EvenOdd.py",
+      "size": 209,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.174564Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.174564Z",
+  "mimetype": null,
+  "name": "P5_prg_4_EvenOdd",
+  "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P5_prg_4_EvenOdd",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

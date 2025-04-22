@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.159564Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.993298Z",
+      "mimetype": null,
+      "name": "P3-prg-14-GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09.ipynb",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_14_GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09/P3-prg-14-GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09.ipynb",
+      "size": 1609,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.159755Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.965555Z",
+      "mimetype": "text/x-python",
+      "name": "P3-prg-14-GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09.py",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_14_GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09/P3-prg-14-GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09.py",
+      "size": 372,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.159665Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.159665Z",
+  "mimetype": null,
+  "name": "P3_prg_14_GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09",
+  "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_14_GCDLCM\uff08\u8f93\u5165\u6570\u636e\uff09",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

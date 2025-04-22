@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.195046Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.699727Z",
+      "mimetype": "text/x-python",
+      "name": "cbad21bb17ab073d908913ecc076940d.py",
+      "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg10\u9009\u62e9\u9898s/cbad21bb17ab073d908913ecc076940d.py",
+      "size": 1403,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.194676Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.194676Z",
+  "mimetype": null,
+  "name": "P8_prg10\u9009\u62e9\u9898s",
+  "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg10\u9009\u62e9\u9898s",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

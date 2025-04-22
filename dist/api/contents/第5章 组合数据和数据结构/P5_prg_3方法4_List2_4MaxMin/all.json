@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.171655Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.412849Z",
+      "mimetype": "text/x-python",
+      "name": "P5-prg-3\u65b9\u6cd54-List2-4MaxMin.py",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_3\u65b9\u6cd54_List2_4MaxMin/P5-prg-3\u65b9\u6cd54-List2-4MaxMin.py",
+      "size": 241,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.171463Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.358803Z",
+      "mimetype": null,
+      "name": "P5-prg-3\u65b9\u6cd54-List2-4MaxMin.ipynb",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_3\u65b9\u6cd54_List2_4MaxMin/P5-prg-3\u65b9\u6cd54-List2-4MaxMin.ipynb",
+      "size": 1235,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.171566Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.171566Z",
+  "mimetype": null,
+  "name": "P5_prg_3\u65b9\u6cd54_List2_4MaxMin",
+  "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_3\u65b9\u6cd54_List2_4MaxMin",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

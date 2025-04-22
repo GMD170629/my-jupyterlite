@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.175988Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.328721Z",
+      "mimetype": "text/x-python",
+      "name": "P6-10-\u661f\u5ea7.py",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_10_\u661f\u5ea7/P6-10-\u661f\u5ea7.py",
+      "size": 599,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.175628Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.312789Z",
+      "mimetype": null,
+      "name": "P6-10-\u661f\u5ea7.ipynb",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_10_\u661f\u5ea7/P6-10-\u661f\u5ea7.ipynb",
+      "size": 2037,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.176712Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.328721Z",
+      "mimetype": "text/csv",
+      "name": "SunSign.csv",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_10_\u661f\u5ea7/SunSign.csv",
+      "size": 411,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.176099Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.176099Z",
+  "mimetype": null,
+  "name": "P6_10_\u661f\u5ea7",
+  "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_10_\u661f\u5ea7",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

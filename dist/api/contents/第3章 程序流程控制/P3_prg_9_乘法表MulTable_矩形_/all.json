@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.164157Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.939158Z",
+      "mimetype": null,
+      "name": "P3-prg-9-\u4e58\u6cd5\u8868MulTable(\u77e9\u5f62).ipynb",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_9_\u4e58\u6cd5\u8868MulTable_\u77e9\u5f62_/P3-prg-9-\u4e58\u6cd5\u8868MulTable(\u77e9\u5f62).ipynb",
+      "size": 1790,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.164344Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.860506Z",
+      "mimetype": "text/x-python",
+      "name": "P3-prg-9-\u4e58\u6cd5\u8868MulTable(\u77e9\u5f62).py",
+      "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_9_\u4e58\u6cd5\u8868MulTable_\u77e9\u5f62_/P3-prg-9-\u4e58\u6cd5\u8868MulTable(\u77e9\u5f62).py",
+      "size": 190,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.164258Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.164258Z",
+  "mimetype": null,
+  "name": "P3_prg_9_\u4e58\u6cd5\u8868MulTable_\u77e9\u5f62_",
+  "path": "\u7b2c3\u7ae0 \u7a0b\u5e8f\u6d41\u7a0b\u63a7\u5236/P3_prg_9_\u4e58\u6cd5\u8868MulTable_\u77e9\u5f62_",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

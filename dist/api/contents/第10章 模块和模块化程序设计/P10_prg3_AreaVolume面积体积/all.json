@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.112901Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.009654Z",
+      "mimetype": null,
+      "name": "P10-prg3-AreaVolume\u9762\u79ef\u4f53\u79ef.ipynb",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg3_AreaVolume\u9762\u79ef\u4f53\u79ef/P10-prg3-AreaVolume\u9762\u79ef\u4f53\u79ef.ipynb",
+      "size": 1625,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.113222Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.026138Z",
+      "mimetype": "text/x-python",
+      "name": "P10-prg3-AreaVolume\u9762\u79ef\u4f53\u79ef.py",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg3_AreaVolume\u9762\u79ef\u4f53\u79ef/P10-prg3-AreaVolume\u9762\u79ef\u4f53\u79ef.py",
+      "size": 466,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.113085Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.113085Z",
+  "mimetype": null,
+  "name": "P10_prg3_AreaVolume\u9762\u79ef\u4f53\u79ef",
+  "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg3_AreaVolume\u9762\u79ef\u4f53\u79ef",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

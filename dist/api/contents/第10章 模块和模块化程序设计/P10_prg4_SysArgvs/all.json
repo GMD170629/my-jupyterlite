@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.113509Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.893633Z",
+      "mimetype": null,
+      "name": "P10-prg4-SysArgvs.ipynb",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg4_SysArgvs/P10-prg4-SysArgvs.ipynb",
+      "size": 1392,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.113753Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.840418Z",
+      "mimetype": "text/x-python",
+      "name": "P10-prg4-SysArgvs.py",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg4_SysArgvs/P10-prg4-SysArgvs.py",
+      "size": 214,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.113631Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.113631Z",
+  "mimetype": null,
+  "name": "P10_prg4_SysArgvs",
+  "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg4_SysArgvs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

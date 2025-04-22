@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.165420Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.296166Z",
+      "mimetype": null,
+      "name": "P4-prg-2-\u9636\u4e58 - \u9012\u5f52.ipynb",
+      "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_2_\u9636\u4e58 _ \u9012\u5f52/P4-prg-2-\u9636\u4e58 - \u9012\u5f52.ipynb",
+      "size": 1276,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.165689Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.296165Z",
+      "mimetype": "text/x-python",
+      "name": "P4-prg-2-\u9636\u4e58 - \u9012\u5f52.py",
+      "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_2_\u9636\u4e58 _ \u9012\u5f52/P4-prg-2-\u9636\u4e58 - \u9012\u5f52.py",
+      "size": 198,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.165578Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.165578Z",
+  "mimetype": null,
+  "name": "P4_prg_2_\u9636\u4e58 _ \u9012\u5f52",
+  "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_2_\u9636\u4e58 _ \u9012\u5f52",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

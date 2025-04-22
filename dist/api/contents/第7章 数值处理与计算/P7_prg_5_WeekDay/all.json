@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.194496Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.814564Z",
+      "mimetype": "text/x-python",
+      "name": "P7-prg-5-WeekDay.py",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_5_WeekDay/P7-prg-5-WeekDay.py",
+      "size": 941,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.194255Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.814364Z",
+      "mimetype": null,
+      "name": "P7-prg-5-WeekDay.ipynb",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_5_WeekDay/P7-prg-5-WeekDay.ipynb",
+      "size": 2399,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.194379Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.194379Z",
+  "mimetype": null,
+  "name": "P7_prg_5_WeekDay",
+  "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_5_WeekDay",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

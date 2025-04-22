@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.200089Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.682612Z",
+      "mimetype": "text/x-python",
+      "name": "P8-prg6-CountChinese.py",
+      "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg6_CountChinese/P8-prg6-CountChinese.py",
+      "size": 295,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.199988Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.199988Z",
+  "mimetype": null,
+  "name": "P8_prg6_CountChinese",
+  "path": "\u7b2c8\u7ae0 \u5b57\u7b26\u4e32\u548c\u6587\u672c\u5904\u7406/P8_prg6_CountChinese",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

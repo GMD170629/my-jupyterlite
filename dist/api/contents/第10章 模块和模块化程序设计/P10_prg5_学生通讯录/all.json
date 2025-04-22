@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.114026Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.630708Z",
+      "mimetype": null,
+      "name": "P10-prg5-\u5b66\u751f\u901a\u8baf\u5f55.ipynb",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg5_\u5b66\u751f\u901a\u8baf\u5f55/P10-prg5-\u5b66\u751f\u901a\u8baf\u5f55.ipynb",
+      "size": 2904,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.114423Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.920044Z",
+      "mimetype": "text/csv",
+      "name": "address.csv",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg5_\u5b66\u751f\u901a\u8baf\u5f55/address.csv",
+      "size": 0,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.114245Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:35.975229Z",
+      "mimetype": "text/x-python",
+      "name": "P10-prg5-\u5b66\u751f\u901a\u8baf\u5f55.py",
+      "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg5_\u5b66\u751f\u901a\u8baf\u5f55/P10-prg5-\u5b66\u751f\u901a\u8baf\u5f55.py",
+      "size": 1209,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.114357Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.114357Z",
+  "mimetype": null,
+  "name": "P10_prg5_\u5b66\u751f\u901a\u8baf\u5f55",
+  "path": "\u7b2c10\u7ae0 \u6a21\u5757\u548c\u6a21\u5757\u5316\u7a0b\u5e8f\u8bbe\u8ba1/P10_prg5_\u5b66\u751f\u901a\u8baf\u5f55",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

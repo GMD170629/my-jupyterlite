@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.137132Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.550278Z",
+      "mimetype": null,
+      "name": "1-2.ipynb",
+      "path": "\u7b2c1\u7ae0 Python\u7a0b\u5e8f\u8bbe\u8ba1\u5bfc\u8bba/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883/1-2.ipynb",
+      "size": 1297,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.133079Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:41.435088Z",
+      "mimetype": null,
+      "name": "1-1.ipynb",
+      "path": "\u7b2c1\u7ae0 Python\u7a0b\u5e8f\u8bbe\u8ba1\u5bfc\u8bba/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883/1-1.ipynb",
+      "size": 1290,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.133225Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.133225Z",
+  "mimetype": null,
+  "name": "\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883",
+  "path": "\u7b2c1\u7ae0 Python\u7a0b\u5e8f\u8bbe\u8ba1\u5bfc\u8bba/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883/\u5b9e\u9a8c\u4e00\u3000\u5b89\u88c5\u548c\u719f\u6089Python\u8bed\u8a00\u5f00\u53d1\u73af\u5883",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

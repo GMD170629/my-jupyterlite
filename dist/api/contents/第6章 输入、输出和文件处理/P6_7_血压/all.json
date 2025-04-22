@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.185562Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:43.771500Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "P6-7-\u8840\u538b.xlsx",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_7_\u8840\u538b/P6-7-\u8840\u538b.xlsx",
+      "size": 11526,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.185267Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:43.866283Z",
+      "mimetype": "text/x-python",
+      "name": "P6-7-\u8840\u538b.py",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_7_\u8840\u538b/P6-7-\u8840\u538b.py",
+      "size": 1452,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.185790Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:43.801968Z",
+      "mimetype": "text/plain",
+      "name": "xueyajilu.txt",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_7_\u8840\u538b/xueyajilu.txt",
+      "size": 162,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.185007Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:43.771489Z",
+      "mimetype": null,
+      "name": "P6-7-\u8840\u538b.ipynb",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_7_\u8840\u538b/P6-7-\u8840\u538b.ipynb",
+      "size": 3184,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.185667Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.185667Z",
+  "mimetype": null,
+  "name": "P6_7_\u8840\u538b",
+  "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_7_\u8840\u538b",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

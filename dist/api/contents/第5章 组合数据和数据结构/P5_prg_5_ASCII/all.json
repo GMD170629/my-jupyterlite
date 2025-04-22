@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.172881Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.538062Z",
+      "mimetype": "text/x-python",
+      "name": "P5-prg-5-ASCII.py",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_5_ASCII/P5-prg-5-ASCII.py",
+      "size": 185,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.172693Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.538062Z",
+      "mimetype": null,
+      "name": "P5-prg-5-ASCII.ipynb",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_5_ASCII/P5-prg-5-ASCII.ipynb",
+      "size": 1271,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.172793Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.172793Z",
+  "mimetype": null,
+  "name": "P5_prg_5_ASCII",
+  "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_5_ASCII",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

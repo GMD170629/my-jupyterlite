@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.169339Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.553924Z",
+      "mimetype": null,
+      "name": "P4-prg-6-\u65af\u6d1b\u514bsnooker.ipynb",
+      "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_6_\u65af\u6d1b\u514bsnooker/P4-prg-6-\u65af\u6d1b\u514bsnooker.ipynb",
+      "size": 10072,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.169526Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:39.553896Z",
+      "mimetype": "text/x-python",
+      "name": "P4-prg-6-\u65af\u6d1b\u514bsnooker.py",
+      "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_6_\u65af\u6d1b\u514bsnooker/P4-prg-6-\u65af\u6d1b\u514bsnooker.py",
+      "size": 433,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.169441Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.169441Z",
+  "mimetype": null,
+  "name": "P4_prg_6_\u65af\u6d1b\u514bsnooker",
+  "path": "\u7b2c4\u7ae0 \u51fd\u6570\u548c\u4ee3\u7801\u590d\u7528/P4_prg_6_\u65af\u6d1b\u514bsnooker",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

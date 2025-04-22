@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.173536Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.201373Z",
+      "mimetype": null,
+      "name": "P5-prg-7-\u661f\u671f\u5b57\u5178WeeksDict.ipynb",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_7_\u661f\u671f\u5b57\u5178WeeksDict/P5-prg-7-\u661f\u671f\u5b57\u5178WeeksDict.ipynb",
+      "size": 1369,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.173727Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.227180Z",
+      "mimetype": "text/x-python",
+      "name": "P5-prg-7-\u661f\u671f\u5b57\u5178WeeksDict.py",
+      "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_7_\u661f\u671f\u5b57\u5178WeeksDict/P5-prg-7-\u661f\u671f\u5b57\u5178WeeksDict.py",
+      "size": 236,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.173637Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.173637Z",
+  "mimetype": null,
+  "name": "P5_prg_7_\u661f\u671f\u5b57\u5178WeeksDict",
+  "path": "\u7b2c5\u7ae0 \u7ec4\u5408\u6570\u636e\u548c\u6570\u636e\u7ed3\u6784/P5_prg_7_\u661f\u671f\u5b57\u5178WeeksDict",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

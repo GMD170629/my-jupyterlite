@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.205666Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.205666Z",
+      "mimetype": null,
+      "name": "code",
+      "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/9_12/\u7b2c9\u7ae0/code",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.207627Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:29:02.207627Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/9_12/\u7b2c9\u7ae0/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.205927Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.205927Z",
+  "mimetype": null,
+  "name": "\u7b2c9\u7ae0",
+  "path": "\u7b2c9\u7ae0 \u9762\u5411\u5bf9\u8c61\u7684\u7a0b\u5e8f\u8bbe\u8ba1\u57fa\u7840/9_12/\u7b2c9\u7ae0",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

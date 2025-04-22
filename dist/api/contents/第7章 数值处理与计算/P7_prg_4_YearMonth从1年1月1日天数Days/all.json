@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.193963Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.760194Z",
+      "mimetype": "text/x-python",
+      "name": "P7-prg-4-YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days.py",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days/P7-prg-4-YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days.py",
+      "size": 820,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.193708Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:36.727803Z",
+      "mimetype": null,
+      "name": "P7-prg-4-YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days.ipynb",
+      "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days/P7-prg-4-YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days.ipynb",
+      "size": 2316,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.193839Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.193839Z",
+  "mimetype": null,
+  "name": "P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days",
+  "path": "\u7b2c7\u7ae0 \u6570\u503c\u5904\u7406\u4e0e\u8ba1\u7b97/P7_prg_4_YearMonth\u4ece1\u5e741\u67081\u65e5\u5929\u6570Days",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

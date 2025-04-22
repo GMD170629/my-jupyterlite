@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.177665Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.183041Z",
+      "mimetype": null,
+      "name": "68145f11c0701b8c54fc4bd5edf43ee5.ipynb",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_3_randompw/68145f11c0701b8c54fc4bd5edf43ee5.ipynb",
+      "size": 1486,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.178154Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.054136Z",
+      "mimetype": "text/plain",
+      "name": "\u968f\u673a\u5bc6\u7801.txt",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_3_randompw/\u968f\u673a\u5bc6\u7801.txt",
+      "size": 119,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-04-22T03:29:02.177909Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-04-22T03:17:45.080242Z",
+      "mimetype": "text/x-python",
+      "name": "68145f11c0701b8c54fc4bd5edf43ee5.py",
+      "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_3_randompw/68145f11c0701b8c54fc4bd5edf43ee5.py",
+      "size": 402,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-04-22T03:29:02.178048Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-04-22T03:29:02.178048Z",
+  "mimetype": null,
+  "name": "P6_3_randompw",
+  "path": "\u7b2c6\u7ae0 \u8f93\u5165\u3001\u8f93\u51fa\u548c\u6587\u4ef6\u5904\u7406/P6_3_randompw",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
